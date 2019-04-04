@@ -1,6 +1,6 @@
 .jumbotron {
 	text-align: right;
-	background-image: url("/media/Modular_Synth_BES001(73).JPG") ;
+	background-image: url("media/Modular_Synth_BES001(73).JPG") ;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 0% 25%;
@@ -22,7 +22,7 @@ p {
 }
 
 .content {
-	 background-image: url("/media/IMG_7590.JPG") ;
+	 background-image: url("media/IMG_7590.JPG") ;
     background-size: cover;
     background-repeat: no-repeat;
 		background-position: 0% 25%;
@@ -39,37 +39,37 @@ p {
 	margin: none;
 }
 .footlogo {
-	background-image: url("/media/BE simple logo.png") ;
+	background-image: url("media/BE simple logo.png") ;
 	height: 5em;
 	background-size: 15%;
 	background-repeat: no-repeat;
 	background-position: right;
 }
 .logo {
-	 background-image: url("/media/BES001_Box_Emissions_Systems.JPG") ;
+	 background-image: url("media/BES001_Box_Emissions_Systems.JPG") ;
 }
  .bes001img {
-	background-image: url("/media/Modular_Synth_BES001(29).JPG") ;
+	background-image: url("media/Modular_Synth_BES001(29).JPG") ;
 }
 .bes002img {
-	background-image: url("/media/TTSH_Arp_2600_Box_Emissions_Systems (16).JPG") ;
+	background-image: url("media/TTSH_Arp_2600_Box_Emissions_Systems (16).JPG") ;
 
 }
 
 .bes003img {
-	background-image: url("/media/Modular_Synth_Eurorack_Case_BES003_Midi_Interface (17).JPG") ;
+	background-image: url("media/Modular_Synth_Eurorack_Case_BES003_Midi_Interface (17).JPG") ;
 }
 .turingimg {
-	background-image: url("/media/euro/Turing_Machine_Greyscale_Box_emissions_systems (14).JPG") ;
+	background-image: url("media/euro/Turing_Machine_Greyscale_Box_emissions_systems (14).JPG") ;
 }
 .th555img {
-	background-image: url("/media/euro/555VCO_Thomas_Henry_Fonik_Box_emissions_systems (2).JPG") ;
+	background-image: url("media/euro/555VCO_Thomas_Henry_Fonik_Box_emissions_systems (2).JPG") ;
 }
 .bes004img {
-	background-image: url("/media/BES004/BES004_Dual_Analogue_VCO_Eurorack_Synth_Module (16).JPG") ;
+	background-image: url("media/BES004/BES004_Dual_Analogue_VCO_Eurorack_Synth_Module (16).jpg") ;
 }
 .bes004pedal {
-	background-image: url("/media/BES004/BES004_Dual_Analogue_VCO_Eurorack_Synth_Module (2).JPG") ;
+	background-image: url("media/BES004/BES004_Dual_Analogue_VCO_Eurorack_Synth_Module (2).JPG") ;
 }
  /* Style all font awesome icon */
 .fa {
