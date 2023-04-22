@@ -29,7 +29,7 @@ p {
 	margin: none;
 	background-attachment: fixed;   
 }
-.logo, .bes001img, .bes002img, .bes003img, .turingimg, .th555img, .bes004img, .bes004pedal {
+.logo, .bes001img, .bes002img, .bes003img, .turingimg, .th555img, .bes004img, .bes004pedal, .bes004ren, .bes011ren, .bes015ren, .bes016ren, .bes017ren, .bes018ren, .bes019ren, .bes020ren {
 
 	height: 30em;
 	text-align: right;
@@ -70,6 +70,9 @@ p {
 }
 .bes004pedal {
 	background-image: url("media/BES004/BES004_Dual_Analogue_VCO_Eurorack_Synth_Module (2).JPG") ;
+}
+.bes004ren {
+	background-image: url("media/render/BES004_Render.bmp") ;
 }
  /* Style all font awesome icon */
 .fa {
