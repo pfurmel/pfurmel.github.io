@@ -31,9 +31,9 @@ p {
 }
 .logo, .bes001img, .bes002img, .bes003img, .turingimg, .th555img, .bes004img, .bes004pedal, .bes004ren {
 
-	height: auto;
+	height: 100%;
 	text-align: right;
-	background-size:75%;
+	background-size:100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	margin: none;
